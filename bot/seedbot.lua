@@ -270,7 +270,7 @@ function create_config( )
     "msg_checks",
     "banhammer"
     },
-    sudo_users = {232006008,239832443},--Sudo users
+    sudo_users = {211752618},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[پروژه ربات TeleSurena کاملا فارسی با سورس اوپن :
     https://github.com/SurenaTeam/TeleSurena
